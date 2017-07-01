@@ -3,7 +3,7 @@ Port of IdleRPG to Discord
 
 2017-07-01 Change Log v1.0.3
 
-* Standard Events/; now happen at a much higher rate then before but have equal distribution of failing+success.
+* Standard Events: now happen at a much higher rate then before but have equal distribution of failing+success.
 * Scavenge command: (level 20, 1 hour cd) - randomly generate a new item and forces you to equip it, whether its better or worse.
 * Inventory command: 
   * has an alias called inv.
