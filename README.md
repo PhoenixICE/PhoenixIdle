@@ -6,8 +6,8 @@ Port of IdleRPG to Discord
 * Standard Events/; now happen at a much higher rate then before but have equal distribution of failing+success.
 * Scavenge command: (level 20, 1 hour cd) - randomly generate a new item and forces you to equip it, whether its better or worse.
 * Inventory command: 
- * has an alias called inv.
- * Added Gold display to your inventory page.
+  * has an alias called inv.
+  * Added Gold display to your inventory page.
 * Challenge command: (level 40, 1 hour cd) - fights another online idle player, winner takes a portion of the losers time.
 * Stats command: Added map position display and area type
 * Top command: now provides proper ranking, based on your level and time till next level.
