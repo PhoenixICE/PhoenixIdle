@@ -9,7 +9,7 @@ Port of IdleRPG to Discord
 
 -Inventory command: has an alias called inv.
 
-                    Added Gold display to your inventory page.
+-Inventory command: Added Gold display to your inventory page.
                     
 -Challenge command: (level 40, 1 hour cd) - fights another online idle player, winner takes a portion of the losers time.
 
